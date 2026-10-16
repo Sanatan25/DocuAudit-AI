@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DocuAudit AI — MVP
 
 A starter application with a React frontend and FastAPI backend. The home page asks users to choose one of three audit services before uploading PDFs.
@@ -38,3 +39,6 @@ Open the URL printed by Vite (usually http://localhost:5173).
 - Audit results are rule-based starter findings. They are not a substitute for professional legal, accounting, or procurement review.
 - For invoice matching, upload one invoice and one purchase order. Delivery receipt support is planned.
 - Do not upload sensitive documents to a public deployment until authentication, access controls, secure storage, retention policies and production security have been implemented.
+=======
+# DocuAudit-AI
+>>>>>>> 8ba0dcfba250b7a08fda84e4fbf582df73d3c305
